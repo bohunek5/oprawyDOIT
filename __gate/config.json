@@ -1,0 +1,1 @@
+{"version":1,"format":"sealed-pages-v1","build":"3807d1e838b661ffcd4248b7edf27894","basepath":"/oprawyDOIT/","cipher":"AES-256-GCM","kdf":"PBKDF2","hash":"SHA-256","iterations":600000,"salt":"hqwk9ZipwUgheoSG85SQXX3vZGtzDwDjwcgIAzC3tLk=","manifest":"0f7ad5b07a26fad73247e9ccd45b8ffa6c864c8e41d9cfb03151794e5a5f9264","chunkSize":4194304}
